@@ -12,10 +12,15 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/abenezer-amare-b81a85218"
             target="_blank"
+            rel="noreferrer"
           >
             <AiOutlineLinkedin size={24} />
           </a>
-          <a href="https://github.com/Ebenezer-A" target="_blank">
+          <a
+            href="https://github.com/Ebenezer-A"
+            target="_blank"
+            rel="noreferrer"
+          >
             <DiGithubAlt size={24} />
           </a>
           <a href="t.me/AbeniAw">
